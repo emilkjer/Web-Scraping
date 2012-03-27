@@ -1,0 +1,17 @@
+http://youtu.be/--THSIi85I8
+
+
+/Users/emil/study/rmit/semester4/scraping_talk/code/example_python
+/Users/emil/study/rmit/semester4/scraping_talk/code/example_java
+
+python scrape_advanced.py
+python scrape_simple.py
+
+
+BeautifulSoup
+http://www.crummy.com/software/BeautifulSoup/
+
+Jsoup
+http://jsoup.org/
+
+alternative from javax for parsing html as documents javax.swing.text.html.HTMLEditorKit
