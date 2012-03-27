@@ -13,5 +13,7 @@ http://www.crummy.com/software/BeautifulSoup/
 
 Jsoup
 http://jsoup.org/
+javac ScrapeSimple.java && java ScrapeSimple
+
 
 alternative from javax for parsing html as documents javax.swing.text.html.HTMLEditorKit
